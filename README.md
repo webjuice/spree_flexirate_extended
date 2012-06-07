@@ -1,6 +1,6 @@
 Spree FlexiRate Extended
 ========================
-Improves the Spree flexirate shipping calculation by providing more control over what existing flexirate offers. This gem will be obsolete, when either this code (probably improved) get merged into spree or once spree has a better calculator.
+Improves the Spree flexirate shipping calculation by providing more control over what existing flexirate offers. This gem will become obsolete: when this code (probably improved) get merged into spree or once spree has a better calculator.
 
 The shipping rates can be added in any order and the calculator will do the sorting. The example below shows how the shipping rates are calculated.
 
