@@ -1,0 +1,6 @@
+---
+  en:
+    flexirate_extended:
+      description: FlexiRate - Extended
+      items: Items ( x and above)
+      shipping_cost: Shipping cost

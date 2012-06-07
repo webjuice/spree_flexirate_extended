@@ -1,0 +1,12 @@
+.calculator_table {
+	width:30em;
+	border: 1px solid #DDDDDD;
+}
+
+.calculator_table thead {background:#DDDDDD}
+.calculator_tabular_fields {
+	width:15em !important;
+}
+
+tr.new-calc-field:nth-child(odd) {background:#d1f0e8}
+tr.new-calc-field:nth-child(even) {background:#b1dfd8}
